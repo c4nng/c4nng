@@ -1,4 +1,4 @@
-[![MasterHead]http://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dmr.%2Brobot&psig=AOvVaw0P73VjCilQNGocCp2CCqc-&ust=1685441918985000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiu186mmv8CFQAAAAAdAAAAABBI
+[![MasterHead](http://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dmr.%2Brobot&psig=AOvVaw0P73VjCilQNGocCp2CCqc-&ust=1685441918985000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiu186mmv8CFQAAAAAdAAAAABBI)
 <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">A passionate c and python developer from Turkey</h3>
 
