@@ -1,4 +1,4 @@
-[!MasterHead](http://i.pinimg.com/originals/5e/96/64/5e9664afffe56bf1e5a49067e7fc34bd.jpg)
+[![MasterHead](http://i.pinimg.com/originals/5e/96/64/5e9664afffe56bf1e5a49067e7fc34bd.jpg)
 <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">A passionate c and python developer from Turkey</h3>
 
