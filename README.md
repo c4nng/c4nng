@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c4nng&show_icons=true&locale=en" alt="c4nng" /></p>
 
-
+![snake gif](https://github.com/c4nng/c4nng/blob/output/github-contribution-grid-snake.gif)
