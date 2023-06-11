@@ -21,3 +21,4 @@
 
 
 ![snake gif](https://github.com/c4nng/c4nng/blob/output/github-contribution-grid-snake.gif)
+[![Generate Snake](https://github.com/c4nng/c4nng/actions/workflows/main.yml/badge.svg)](https://github.com/c4nng/c4nng/actions/workflows/main.yml)
