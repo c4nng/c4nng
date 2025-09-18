@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Can</h1>
-<h3 align="center">A passionate c, cpp and python developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Enes Can</h1>
+<h3 align="center">A passionate Cyber Security and Python developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c4nng&label=Profile%20views&color=0e75b6&style=flat" alt="c4nng" /> </p>
 
