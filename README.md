@@ -23,7 +23,6 @@ ve PortSwigger gibi platformlarda 200’den fazla laboratuvar tamamladım.
 Teknik çalışmalarım; uygulamalı sızma testleri, güvenli kodlama prensipleri
 ve altyapı yönetimini bir araya getirmeyi hedefler.
 
----
 
 ## Teknik Yetkinlikler
 
