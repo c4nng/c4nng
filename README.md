@@ -1,19 +1,94 @@
-<h1 align="center">Hi 👋, I'm Enes Can</h1>
-<h3 align="center">A passionate Cyber Security and Python developer from Turkey</h3>
+<h1 align="center">Merhaba, ben Enes Can Adil</h1>
+<h3 align="center">Sızma Testi Uzmanı (Jr.) ve Siber Güvenlik Araştırmacısı</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=c4nng&label=Profile%20views&color=0e75b6&style=flat" alt="c4nng" /> </p>
-
-<p align="left"> <a href="https://twitter.com/c4nndev" target="blank"><img src="https://img.shields.io/twitter/follow/c4nndev?logo=twitter&style=for-the-badge" alt="c4nndev" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/c4nndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c4nndev" height="30" width="40" /></a>
-<a href="https://instagram.com/c4nn.g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c4nn.g" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/c4nng">GitHub</a> •
+  <a href="https://enescanadil.com">Kişisel Web Sitesi</a> •
+  <a href="https://twitter.com/c4nndev">Twitter</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c4nng&show_icons=true&locale=en&layout=compact" alt="c4nng" /></p>
+## Hakkımda
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c4nng&show_icons=true&locale=en" alt="c4nng" /></p>
+Ben Enes Can Adil. Sızma testleri (penetration testing) ve güvenli yazılım
+geliştirme alanlarında pratik deneyime sahip, kariyerinin başındaki bir
+Sızma Testi Uzmanıyım.
+
+Web, ağ ve bulut saldırı yüzeylerine odaklanıyor; kendi oluşturduğum
+laboratuvar ortamlarında aktif olarak pratik yapıyorum.
+TryHackMe platformunda ilk %1’lik dilimde yer alıyor, TryHackMe, Hack The Box
+ve PortSwigger gibi platformlarda 200’den fazla laboratuvar tamamladım.
+
+Teknik çalışmalarım; uygulamalı sızma testleri, güvenli kodlama prensipleri
+ve altyapı yönetimini bir araya getirmeyi hedefler.
+
+---
+
+## Akademik ve Topluluk Çalışmaları
+
+Ankara Üniversitesi Güvenli Teknolojiler ve Bilgi Güvenliği Topluluğu
+yönetim kurulu üyesiyim.
+Bu kapsamda Capture The Flag (CTF) etkinlikleri ve teknik atölyeler
+düzenliyor, eğitim ve organizasyon süreçlerinde aktif rol alıyorum.
+
+---
+
+## İlgi Alanları
+
+- Web, Ağ ve Active Directory Sızma Testleri
+- Red Team ve Post-Exploitation Teknikleri
+- Zararlı Yazılım Analizi ve Tehdit İstihbaratı
+- Python ile Güvenlik Otomasyonu
+- Bulut Güvenliği ve Altyapı Sertleştirmesi
+- OSINT ve veri odaklı güvenlik çalışmaları
+
+---
+
+## Teknik Yetkinlikler
+
+- Programlama: Python, C, Bash, PowerShell, JavaScript
+- Backend ve API: FastAPI
+- Frontend ve Mobil: React, React Native
+- Bulut ve Altyapı: AWS (EC2, S3, IAM), Linux Sunucu Yönetimi
+- Ağ Teknolojileri: Trafik Analizi, Paket İncelemesi, Temel Cisco Yapılandırmaları
+- IoT ve Gömülü Sistemler: Arduino, ESP32, Raspberry Pi
+
+---
+
+## Sertifikalar
+
+- eLearnSecurity Junior Penetration Tester (eJPT)
+- eLearnSecurity Certified Professional Penetration Tester (eCPPT)
+- eLearnSecurity Certified Cloud Associate (ICCA)
+- TryHackMe Junior Penetration Tester Learning Path
+- Offensive Security Certified Professional (OSCP) – Hazırlık Aşamasında
+
+---
+
+## Öne Çıkan Projeler
+
+- Türkiye Yangın Haritası  
+  VIIRS uydu verileri ve ArcGIS REST API kullanılarak geliştirilen,
+  uydu tabanlı yangın görselleştirme uygulaması.  
+  https://github.com/c4nng/tr-yangin-harita
+
+- SWAT – Kontrol Listesi Tabanlı Web Güvenlik Platformu  
+  TÜBİTAK 2209-A destekli, sistematik web güvenlik değerlendirmesi için
+  geliştirilen araştırma prototipi.
+
+- Pentest Automation Toolkit  
+  Bilgi toplama, yetki yükseltme ve güvenlik testlerini otomatikleştiren
+  Python ve Bash tabanlı araç seti.
+
+---
+
+## GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=c4nng&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4nng&layout=compact&hide_border=true" />
+</p>
