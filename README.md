@@ -11,6 +11,12 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/y4masiz.png" />
 </a>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/INE-eJPT-blue?style=flat" />
+  <img src="https://img.shields.io/badge/INE-eCPPT-blue?style=flat" />
+  <img src="https://img.shields.io/badge/INE-ICCA-blue?style=flat" />
+</p>
+
 ---
 
 ## Hakkımda
