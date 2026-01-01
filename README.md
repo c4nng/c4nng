@@ -1,5 +1,5 @@
 <h1 align="left">Merhaba, ben Enes Can Adil</h1>
-<h3 align="left">Sızma Testi Uzmanı (Jr.) ve Siber Güvenlik Araştırmacısı</h3>
+<h3 align="left">Sızma Testi Uzmanı (JR.) ve Siber Güvenlik Araştırmacısı</h3>
 
 <p align="left">
   <a href="https://github.com/c4nng">GitHub</a> •
