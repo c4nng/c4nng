@@ -34,17 +34,6 @@ düzenliyor, eğitim ve organizasyon süreçlerinde aktif rol alıyorum.
 
 ---
 
-## İlgi Alanları
-
-- Web, Ağ ve Active Directory Sızma Testleri
-- Red Team ve Post-Exploitation Teknikleri
-- Zararlı Yazılım Analizi ve Tehdit İstihbaratı
-- Python ile Güvenlik Otomasyonu
-- Bulut Güvenliği ve Altyapı Sertleştirmesi
-- OSINT ve veri odaklı güvenlik çalışmaları
-
----
-
 ## Teknik Yetkinlikler
 
 - Programlama: Python, C, Bash, PowerShell, JavaScript
@@ -65,30 +54,3 @@ düzenliyor, eğitim ve organizasyon süreçlerinde aktif rol alıyorum.
 - Offensive Security Certified Professional (OSCP) – Hazırlık Aşamasında
 
 ---
-
-## Öne Çıkan Projeler
-
-- Türkiye Yangın Haritası  
-  VIIRS uydu verileri ve ArcGIS REST API kullanılarak geliştirilen,
-  uydu tabanlı yangın görselleştirme uygulaması.  
-  https://github.com/c4nng/tr-yangin-harita
-
-- SWAT – Kontrol Listesi Tabanlı Web Güvenlik Platformu  
-  TÜBİTAK 2209-A destekli, sistematik web güvenlik değerlendirmesi için
-  geliştirilen araştırma prototipi.
-
-- Pentest Automation Toolkit  
-  Bilgi toplama, yetki yükseltme ve güvenlik testlerini otomatikleştiren
-  Python ve Bash tabanlı araç seti.
-
----
-
-## GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c4nng&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4nng&layout=compact&hide_border=true" />
-</p>
