@@ -7,6 +7,10 @@
   <a href="https://twitter.com/c4nndev">Twitter</a>
 </p>
 
+<a href="https://tryhackme.com/p/y4masiz">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/y4masiz.png" />
+</a>
+
 ---
 
 ## Hakkımda
