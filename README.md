@@ -23,7 +23,6 @@ ve PortSwigger gibi platformlarda 200’den fazla laboratuvar tamamladım.
 Teknik çalışmalarım; uygulamalı sızma testleri, güvenli kodlama prensipleri
 ve altyapı yönetimini bir araya getirmeyi hedefler.
 
-
 ## Teknik Yetkinlikler
 
 - Programlama: Python, C, Bash, PowerShell, JavaScript
@@ -32,8 +31,6 @@ ve altyapı yönetimini bir araya getirmeyi hedefler.
 - Bulut ve Altyapı: AWS (EC2, S3, IAM), Linux Sunucu Yönetimi
 - Ağ Teknolojileri: Trafik Analizi, Paket İncelemesi, Temel Cisco Yapılandırmaları
 - IoT ve Gömülü Sistemler: Arduino, ESP32, Raspberry Pi
-
----
 
 ## Sertifikalar
 
