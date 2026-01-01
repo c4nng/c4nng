@@ -1,9 +1,9 @@
-<h1 align="center">Merhaba, ben Enes Can Adil</h1>
-<h3 align="center">Sızma Testi Uzmanı (Jr.) ve Siber Güvenlik Araştırmacısı</h3>
+<h1 align="left">Merhaba, ben Enes Can Adil</h1>
+<h3 align="left">Sızma Testi Uzmanı (Jr.) ve Siber Güvenlik Araştırmacısı</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/c4nng">GitHub</a> •
-  <a href="https://enescanadil.com">Kişisel Web Sitesi</a> •
+  <a href="https://enescanadil.com">Website</a> •
   <a href="https://twitter.com/c4nndev">Twitter</a>
 </p>
 
@@ -22,15 +22,6 @@ ve PortSwigger gibi platformlarda 200’den fazla laboratuvar tamamladım.
 
 Teknik çalışmalarım; uygulamalı sızma testleri, güvenli kodlama prensipleri
 ve altyapı yönetimini bir araya getirmeyi hedefler.
-
----
-
-## Akademik ve Topluluk Çalışmaları
-
-Ankara Üniversitesi Güvenli Teknolojiler ve Bilgi Güvenliği Topluluğu
-yönetim kurulu üyesiyim.
-Bu kapsamda Capture The Flag (CTF) etkinlikleri ve teknik atölyeler
-düzenliyor, eğitim ve organizasyon süreçlerinde aktif rol alıyorum.
 
 ---
 
