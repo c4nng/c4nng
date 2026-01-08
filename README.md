@@ -43,5 +43,5 @@ ve altyapı yönetimini bir araya getirmeyi hedefler.
 - eLearnSecurity Certified Cloud Associate (ICCA)
 - TryHackMe Junior Penetration Tester Learning Path
 - Offensive Security Certified Professional (OSCP) – Hazırlık Aşamasında
-
+- APIsec Certified Practitioner (ACP)
 ---
